@@ -1,5 +1,5 @@
 # Machine-Learning-and-Deep-Learning
-Mục tiêu: Mỗi ngày sẽ nghiên cứu kỹ từng mô hình ML/DL. Bên cạnh đó áp dụng mô hình cho 1 bài toán cụ thể.
+Mục tiêu: Mỗi ngày sẽ nghiên cứu từng mô hình ML/DL. Bên cạnh đó áp dụng mô hình cho 1 bài toán cụ thể.
 
 ## Cách thức nghiên cứu:
 1. Hiểu bản chất và cơ chế hoạt động của mô hình:
